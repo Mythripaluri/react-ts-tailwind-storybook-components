@@ -3,6 +3,9 @@
 🎨 Styled with Tailwind, 📖 documented with Storybook, 🧪 tested with Vitest.<br>
 🚀 Perfect foundation for building your own design system or UI library.<br>
 
+Storybook Preview:
+https://68babd329410f8168bc0ee43-prewiyhawq.chromatic.com/
+
 ````markdown
 # React + TypeScript + Tailwind + Storybook Components
 
