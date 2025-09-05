@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Helpers for InputField variants */
+@layer components {
+  .if-base {
+    @apply w-full rounded-xl outline-none transition-shadow placeholder:text-gray-400 disabled:opacity-60 disabled:cursor-not-allowed;
+  }
+  .if-outlined {
+    @apply border border-gray-300 focus:ring-2 focus:ring-indigo-500 bg-white dark:bg-pink-800 dark:border-gray-800;
+  }
+  .if-filled {
+    @apply bg-gray-100 focus:ring-2 focus:ring-indigo-500 border border-transparent dark:bg-pink-800/70;
+  }
+  .if-ghost {
+    @apply bg-transparent border-b border-gray-300 focus:border-indigo-500 rounded-none dark:border-gray-300;
+  }
+}
