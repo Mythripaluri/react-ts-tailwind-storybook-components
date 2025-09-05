@@ -1,10 +1,13 @@
-✨ A React + TypeScript + TailwindCSS + Storybook component library starter.<br>
-🧩 Includes reusable UI components like InputField & DataTable.<br>
-🎨 Styled with Tailwind, 📖 documented with Storybook, 🧪 tested with Vitest.<br>
-🚀 Perfect foundation for building your own design system or UI library.<br>
+✨ React + TypeScript + TailwindCSS Component Library<br>
+🧩 Includes reusable UI components like InputField & DataTable<br>
+🎨 Styled with Tailwind, 📖 documented with Storybook, 🧪 tested with Vitest<br>
+🚀 A solid foundation for building your own design system or UI library<br>
 
-Storybook Preview:
-https://68babd329410f8168bc0ee43-prewiyhawq.chromatic.com/
+Storybook Preview (Chromatic):
+https://68babd329410f8168bc0ee43-prewiyhawq.chromatic.com/<br>
+
+Vercel Preview:
+https://react-ts-tailwind-storybook-compone.vercel.app/?path=/story/components-datatable--default
 
 ````markdown
 # React + TypeScript + Tailwind + Storybook Components
