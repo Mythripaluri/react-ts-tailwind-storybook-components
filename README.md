@@ -1,3 +1,8 @@
+✨ A React + TypeScript + TailwindCSS + Storybook component library starter.
+🧩 Includes reusable UI components like InputField & DataTable.
+🎨 Styled with Tailwind, 📖 documented with Storybook, 🧪 tested with Vitest.
+🚀 Perfect foundation for building your own design system or UI library.
+
 ````markdown
 # React + TypeScript + Tailwind + Storybook Components
 
@@ -103,5 +108,6 @@ Runs Storybook locally at [http://localhost:6006](http://localhost:6006).
 ---
 
 ```
+Author: Mythripaluri
 
 ```
